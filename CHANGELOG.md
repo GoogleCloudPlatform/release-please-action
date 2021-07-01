@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.29.0](https://www.github.com/google-github-actions/release-please-action/compare/v2.28.1...v2.29.0) (2021-07-01)
+
+
+### Features
+
+* add release_created per path in manifest PR ([#310](https://www.github.com/google-github-actions/release-please-action/issues/310)) ([5f94ede](https://www.github.com/google-github-actions/release-please-action/commit/5f94ededed7a7a441d1c47eca064ec7aeda117ec))
+
 ### [2.28.1](https://www.github.com/google-github-actions/release-please-action/compare/v2.28.0...v2.28.1) (2021-06-20)
 
 
